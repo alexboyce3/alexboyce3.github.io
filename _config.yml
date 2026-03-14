@@ -15,7 +15,6 @@ github_username:  ""
 date_format: "%b %-d, %Y"
 
 # Build settings
-source: main
 theme: minima
 paginate: 12
 paginate_path: "/blog/:num/"
